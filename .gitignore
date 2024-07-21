@@ -1,0 +1,4 @@
+*.sh
+*.pyx
+datasets/
+notebook_images/
